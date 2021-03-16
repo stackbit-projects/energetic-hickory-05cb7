@@ -6,7 +6,7 @@ sections:
     title: Andbible
     image: images/5.jpg
     content: |
-      #### Android Bible
+      #### A KJV android Bible
     actions:
       - label: Get Started
         url: /docs

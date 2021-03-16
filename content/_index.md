@@ -5,8 +5,8 @@ sections:
     type: section_hero
     title: Andbible
     image: images/5.jpg
-    content: |
-      #### A KJV android Bible
+    content: |2
+                         A KJV android Bible
     actions:
       - label: Get Started
         url: /docs

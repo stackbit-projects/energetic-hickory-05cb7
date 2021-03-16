@@ -63,6 +63,7 @@ params:
         style: icon
         icon_class: github
         new_window: true
+  domain: 'https://energetic-hickory-05cb7.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:

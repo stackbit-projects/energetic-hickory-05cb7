@@ -6,7 +6,7 @@ sections:
     title: Andbible
     image: images/5.jpg
     content: |2
-                                                               android development bible
+                             android development bible
     actions:
       - label: Get Started
         url: /docs
